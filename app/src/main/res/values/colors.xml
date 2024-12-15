@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#000000</color>
+    <color name="card_background">#F5F5F5</color> <!-- Fond gris clair pour la CardView -->
+    <color name="text_color">#333333</color> <!-- Couleur de texte sombre -->
+    <color name="nameTextColor">#FFFFFF</color>  <!-- Rouge pour le nom -->
+    <color name="emailTextColor">#FFFFFF</color> <!-- Vert pour l'email -->
+    <color name="roomTextColor">#F8FCFF</color>
+    <!-- Bleu pour la chambre -->
+
+    <color name="redColor">#000102</color>
+
+</resources>
