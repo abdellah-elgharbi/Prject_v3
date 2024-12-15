@@ -9,7 +9,7 @@
     <color name="emailTextColor">#FFFFFF</color> <!-- Vert pour l'email -->
     <color name="roomTextColor">#F8FCFF</color>
     <!-- Bleu pour la chambre -->
-
+    <color name="background_color">#FFFFFFFF</color>
     <color name="redColor">#000102</color>
 
 </resources>

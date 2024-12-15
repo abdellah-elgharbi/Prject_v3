@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Retrofite_rest</string>
+
+
+    <string-array name="room_types">
+        <item>Simple</item>
+        <item>Double</item>
+        <item>Suite</item>
+        <item>Familiale</item>
+        <item>Presidential</item>
+    </string-array>
+
 </resources>
